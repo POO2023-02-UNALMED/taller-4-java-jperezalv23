@@ -35,11 +35,11 @@ public class Persona {
     }
     
     public long getCedula() {
-        return cedula;
+        return this.cedula;
     }
 
     public String getNombre() {
-        return nombre;
+        return this.nombre;
     }
 
     public void setNombre(String nombre) {
